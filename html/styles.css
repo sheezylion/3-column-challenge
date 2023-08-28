@@ -20,7 +20,7 @@
    .container-1{
     background-color: #E28524;
     border-radius: 10px 0 0 10px;
-    position: relative;
+   
    }
 
    img{padding-top: 30px;
@@ -30,13 +30,13 @@
 
    .container-2{
     background-color: #006971;
-    position: relative;
+    
    }
 
    .container-3{
     background-color: #00403E;
     border-radius: 0 10px 10px 0;
-    position: relative;
+    
    }
 
    h1{
@@ -63,9 +63,7 @@
     font-family: 'Lexend Deca', sans-serif;
     background-color: white;
     color: #E28524;
-    position: absolute;
-    bottom: 80px;
-    left: 30px;
+    margin: 50px 30px;
     width: 130px;
     height: 40px;
     line-height: 40px;
@@ -77,9 +75,7 @@
     font-family: 'Lexend Deca', sans-serif;
     background-color: white;
     color: #006971;
-   position: absolute;
-   bottom: 80px;
-   left: 30px;
+    margin: 50px 30px;
     width: 130px;
     height: 40px;
     line-height: 40px;
@@ -91,9 +87,7 @@
     font-family: 'Lexend Deca', sans-serif;
     background-color: white;
     color: #00403E;
-    position: absolute;
-   bottom: 80px;
-   left: 30px;
+    margin: 50px 30px;
     width: 130px;
     height: 40px;
     line-height: 40px;
